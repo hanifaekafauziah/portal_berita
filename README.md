@@ -8,3 +8,4 @@
 <img width="1336" height="614" alt="image" src="https://github.com/user-attachments/assets/b3192e87-c289-4818-a41e-08f365d0cd85" />
 <br>
 <h3>Screenshot Tampilan</h3>
+<img width="1244" height="610" alt="image" src="https://github.com/user-attachments/assets/fd4148de-d1d5-4b68-858b-5e4ca69740a9" />
